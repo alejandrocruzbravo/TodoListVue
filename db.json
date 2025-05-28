@@ -1,0 +1,49 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Make a todo list app",
+      "checked": true
+    },
+    {
+      "id": "2",
+      "title": "Predict the weather",
+      "checked": true
+    },
+    {
+      "id": "3",
+      "title": "Read some comics",
+      "checked": false
+    },
+    {
+      "id": "4",
+      "title": "Let's get cooking",
+      "checked": false
+    },
+    {
+      "id": "5",
+      "title": "Pump some iron",
+      "checked": false
+    },
+    {
+      "id": "6",
+      "title": "Track my expenses",
+      "checked": false
+    },
+    {
+      "id": "7",
+      "title": "Organise a game night",
+      "checked": false
+    },
+    {
+      "id": "8",
+      "title": "Learn a new language",
+      "checked": false
+    },
+    {
+      "id": "9",
+      "title": "Publish my work",
+      "checked": false
+    }
+  ]
+}
